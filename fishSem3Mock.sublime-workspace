@@ -1,0 +1,1436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"setAllValues〔function〕"
+			],
+			[
+				"Sess",
+				"SessionHandler〔class〕"
+			],
+			[
+				"place",
+				"$placeholder〔variable〕"
+			],
+			[
+				"converted",
+				"convertedPercentage"
+			],
+			[
+				"get",
+				"getRemainingHeight"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"da",
+				"dateTime"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"con",
+				"$controller〔variable〕"
+			],
+			[
+				"s",
+				"selectViewValues"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"PASSW",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"create",
+				"createProfileInput"
+			],
+			[
+				"getfrid",
+				"getFridgeMin"
+			],
+			[
+				"pri",
+				"print〔function〕"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"password",
+				"password_hash〔function〕"
+			],
+			[
+				"ob_e",
+				"ob_end_flush〔function〕"
+			],
+			[
+				"frid",
+				"fridgeMax"
+			],
+			[
+				"fri",
+				"fridgeMin〔variable〕"
+			],
+			[
+				"notif",
+				"notifyMin"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"passwo",
+				"password_hash〔function〕"
+			],
+			[
+				"PASS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"require",
+				"require_once〔keyword〕"
+			],
+			[
+				"headers",
+				"headers_list〔function〕"
+			],
+			[
+				"v-c",
+				"v-card"
+			],
+			[
+				"v-ca",
+				"v-card-text"
+			],
+			[
+				"bo",
+				"$borderColor〔variable〕"
+			],
+			[
+				"resul",
+				"$resultParagraph〔variable〕"
+			],
+			[
+				"strto",
+				"strtolower〔function〕"
+			],
+			[
+				"cate",
+				"category〔variable〕"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"req",
+				"$required〔variable〕"
+			],
+			[
+				"ob",
+				"ob_end_flush"
+			],
+			[
+				"cu",
+				"$currentAmount〔variable〕"
+			],
+			[
+				"nex",
+				"$nextAmount〔variable〕"
+			],
+			[
+				"chec",
+				"$checkNext〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"for",
+				"forwardButton"
+			],
+			[
+				"forwa",
+				"forwardButton"
+			],
+			[
+				"less",
+				"lessButton"
+			],
+			[
+				"forw",
+				"forwardButton"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"kon",
+				"kontaktStyle"
+			],
+			[
+				"serv",
+				"servicesStyle"
+			],
+			[
+				"port",
+				"portfolioStyle"
+			],
+			[
+				"array_ke",
+				"array_keys"
+			],
+			[
+				"FILTER_VA",
+				"FILTER_VALIDATE_INT"
+			],
+			[
+				"submi",
+				"submitColor"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"overfl",
+				"overflow-wrap"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ease-",
+				"ease-in-out"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"pre",
+				"pre\tTag"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"pass",
+				"password_failed"
+			],
+			[
+				"no",
+				"no_profile"
+			],
+			[
+				"pas",
+				"passRowName"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"up",
+				"upassRow"
+			],
+			[
+				"user",
+				"$userRowName〔variable〕"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"FILT",
+				"FILTER_VALIDATE_EMAIL"
+			],
+			[
+				"uni",
+				"unique_filename〔variable〕"
+			],
+			[
+				"input",
+				"$input_file〔variable〕"
+			],
+			[
+				"gra",
+				"linear-gradient"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"openssl_d",
+				"openssl_digest"
+			],
+			[
+				"com",
+				"combined"
+			],
+			[
+				"co",
+				"combined"
+			],
+			[
+				"or",
+				"org_h"
+			],
+			[
+				"org",
+				"org_w"
+			],
+			[
+				"getw",
+				"getcwd"
+			],
+			[
+				"no_",
+				"no_overwrite"
+			],
+			[
+				"retu",
+				"return_on_success"
+			],
+			[
+				"KB",
+				"KB_filesize"
+			],
+			[
+				"max",
+				"max_file_size"
+			],
+			[
+				"kb",
+				"KB_filesize"
+			],
+			[
+				"file_",
+				"file_input"
+			],
+			[
+				"image",
+				"image_extension"
+			],
+			[
+				"ma",
+				"max_file_size"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"Vali",
+				"Validators"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"mailer",
+				"mailer_preview"
+			],
+			[
+				"inpu",
+				"input-button"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"server",
+				"serverMail"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"UP",
+				"UpassDB"
+			],
+			[
+				"recurs",
+				"RecursiveRemove"
+			],
+			[
+				"recon",
+				"ReconnectTLS"
+			],
+			[
+				"times",
+				"Timestamp"
+			],
+			[
+				"cli",
+				"ClientIP"
+			],
+			[
+				"php",
+				"Php"
+			],
+			[
+				"bg-gra",
+				"bg-gray-lightest"
+			],
+			[
+				"decora",
+				"text-decoration-line"
+			],
+			[
+				"top",
+				"TopButton"
+			],
+			[
+				"scree",
+				"ScreenSizes"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"bg-gray",
+				"bg-gray-lightest"
+			],
+			[
+				"tr",
+				"transform-style"
+			],
+			[
+				"Input",
+				"InputComponents"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"i",
+				"italic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/index.php",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.php",
+			"settings":
+			{
+				"buffer_size": 791,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/singleton.php",
+			"settings":
+			{
+				"buffer_size": 1981,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "com",
+		"selected_items":
+		[
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"highli",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"high",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"highlight",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"html",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"indexing",
+				"Indexing Status"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"hih",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"high\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"whitesp",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"docbl",
+				"Snippet: Start Docblock"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"docblock",
+				"Snippet: Start Docblock"
+			],
+			[
+				"hi\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"nbspr",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ht",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"string",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"url",
+				"StringEncode: URL Encode"
+			],
+			[
+				"stringenco",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"encode",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"stringencode",
+				"StringEncode: Paste Encoded..."
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"exit",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/stick/Dropbox/www/sem3Fish",
+		"/home/stick/Dropbox/www/sem3Fish/controllers",
+		"/home/stick/Dropbox/www/sem3Fish/models",
+		"/home/stick/Dropbox/www/sem3Fish/resources",
+		"/home/stick/Dropbox/www/sem3Fish/views"
+	],
+	"file_history":
+	[
+		"/home/stick/Dropbox/www/sem3Fish/views/index.php",
+		"/home/stick/Dropbox/www/sem3Fish/resources/meta.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/views/statistics.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/controllers/statistics.php",
+		"/home/stick/Dropbox/www/beerAdmin/bar/resources/singleton.php",
+		"/home/stick/Dropbox/www/beerAdmin/bar/views/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/bar/controllers/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/bar/js/dynamics.js",
+		"/home/stick/Dropbox/www/beerAdmin/bar/css/styles.css",
+		"/home/stick/Dropbox/www/beerAdmin/bar/resources/meta.php",
+		"/home/stick/Dropbox/www/beerAdmin/bar/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/views/password.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/controllers/password.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/resources/singleton.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/css/styles.css",
+		"/home/stick/Dropbox/www/beerAdmin/admin/views/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/controllers/cms.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/controllers/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/resources/meta.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/models/time.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/css/jquery-ui.theme.min.css",
+		"/home/stick/Dropbox/www/beerAdmin/admin/controllers/buyer.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/views/buyer.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/js/dynamics.js",
+		"/home/stick/Dropbox/www/beerAdmin/admin/models/curl.php",
+		"/home/stick/Dropbox/www/beerAdmin/admin/views/cms.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/all_styles.css",
+		"/home/stick/Dropbox/www/beerAdmin/controllers/buyer.php",
+		"/home/stick/Dropbox/www/beerAdmin/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/views/buyer.php",
+		"/home/stick/Dropbox/www/beerAdmin/css/styles.css",
+		"/home/stick/Dropbox/www/beerAdmin/resources/meta.php",
+		"/home/stick/Dropbox/www/beerAdmin/controllers/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/views/cms.php",
+		"/home/stick/Dropbox/www/beerAdmin/models/curl.php",
+		"/home/stick/Dropbox/www/beerAdmin/controllers/cms.php",
+		"/home/stick/Dropbox/www/beerSem3/webScraper/scraper.php",
+		"/home/stick/Dropbox/www/beerAdmin/views/index.php",
+		"/home/stick/Dropbox/www/beerAdmin/resources/singleton.php",
+		"/home/stick/Dropbox/www/beerAdmin/resources/token.php",
+		"/home/stick/Dropbox/www/beerSem3/webAdmin/Views/UpdateProfile.twig",
+		"/home/stick/Dropbox/www/beerSem3/webAdmin/Views/profiles.twig",
+		"/home/stick/Dropbox/www/beerSem3/webAdmin/vendor/composer/autoload_real.php",
+		"/home/stick/Dropbox/www/sloa_second/views/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_additionals.scss",
+		"/home/stick/Dropbox/www/sloa_second/resources/meta.php",
+		"/home/stick/Dropbox/www/sloa_second/index.php",
+		"/home/stick/Dropbox/www/sloa_second/css/w3s.css",
+		"/home/stick/Dropbox/www/sloa_second/js/dynamics.js",
+		"/home/stick/Dropbox/www/sloa_second/views/kontakt.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/js/vue.js",
+		"/home/stick/Dropbox/www/sloa_second/views/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/models/crud.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/pregodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/singleton.php",
+		"/home/stick/Dropbox/www/sloa_second/views/pregodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/models/login.php",
+		"/home/stick/Dropbox/www/sloa_second/views/info.php",
+		"/home/stick/Dropbox/www/sloa_second/views/guider.php",
+		"/home/stick/Dropbox/www/sloa_second/models/Parsedown.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/views/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_constants.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_menu.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/index.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_blog.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/helpers.css",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/base.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/lightbox.css",
+		"/home/stick/Dropbox/www/sloa_second/controllers/kontakt.php",
+		"/home/stick/Dropbox/www/sloa_second/js/vueComponents/Lightbox.vue",
+		"/home/stick/Dropbox/www/sloa_second/js/lightbox.js",
+		"/home/stick/Dropbox/www/sloa_second/css/styles.css",
+		"/home/stick/Dropbox/www/sloa_second/models/meta.php",
+		"/home/stick/Dropbox/www/sloa_second/models/validators.php",
+		"/home/stick/Dropbox/www/sloa_second/models/time.php",
+		"/home/stick/Dropbox/www/sloa_second/models/security.php",
+		"/home/stick/Dropbox/www/sloa_second/models/sanitizer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/random.php",
+		"/home/stick/Dropbox/www/sloa_second/models/mailer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/image.php",
+		"/home/stick/Dropbox/www/sloa_second/models/emoji.php",
+		"/home/stick/Dropbox/www/sloa_second/models/dir.php",
+		"/home/stick/Dropbox/www/sloa_second/models/base64.php",
+		"/home/stick/Dropbox/www/sloa_second/models/connection.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/header.php",
+		"/home/stick/Dropbox/www/sloa_second/views/index.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_socialIcons.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/guider.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/guides.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/footer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/database.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/menu.php",
+		"/home/stick/Dropbox/www/sloa_second/kontakt.php",
+		"/home/stick/Dropbox/www/sloa_second/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/views/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/views/services.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/sessionHandler.php",
+		"/home/stick/Dropbox/www/sloa_second/models/blogPost.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/credentials.php.example",
+		"/home/stick/Dropbox/www/sloa_second/resources/credentials.php",
+		"/home/stick/Dropbox/www/sloa_second/models/contact.php",
+		"/home/stick/Dropbox/www/sloa_second/info.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_footer.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/contact.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/info.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/services.php",
+		"/home/stick/Dropbox/www/sloa_second/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/services.php",
+		"/home/stick/Dropbox/www/sloa_second/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/css/additionals.css",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_functions.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/sloa_second.css",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/select_styles.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/motherOfControllers.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/blog",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/css/styles.css",
+		"/home/stick/Dropbox/www/webHelpers/index.php",
+		"/home/stick/Dropbox/www/webHelpers/php/base64.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/grids/_mobile.scss",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/grids/_desktop.scss",
+		"/home/stick/Dropbox/www/webHelpers/controller.php",
+		"/home/stick/Dropbox/www/webHelpers/php/time.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/home/stick/Dropbox/www/sloa_second"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"..",
+			"<td",
+			"d>",
+			"pos",
+			"1",
+			"jpg",
+			"row",
+			"but",
+			"ui-icons",
+			"demo",
+			"style=\"text-align:left; border-bottom:1px solid darkgrey; vertical-align: top;\"",
+			"<button",
+			"button",
+			" value=\"",
+			"<br>",
+			"col",
+			"echo",
+			"type",
+			"<label",
+			"ch",
+			" curl",
+			"curl",
+			"= \"",
+			"token",
+			"['",
+			"error",
+			"col",
+			"uname",
+			"int",
+			"<td",
+			"<h3",
+			"<td",
+			"td",
+			"public",
+			">';\n",
+			"w3-bar-block",
+			"w3-sidebar",
+			"w3-top",
+			"w3-collapse",
+			"w3-content",
+			"w3-padding-16",
+			"w3-hide-large",
+			"w3-top",
+			"w3-container",
+			"w3-hide-large",
+			"w3-overlay",
+			"keyframes",
+			"overlay",
+			"animate-opacity",
+			"overlay",
+			"position",
+			"w3-left",
+			"w3-top",
+			"container",
+			"sidebar",
+			"transition",
+			"main",
+			"w3-button",
+			"w3-bar-item",
+			"w3-top",
+			"sidebar",
+			"w3-top",
+			"w3-collapse",
+			"w3-bar-block",
+			"w3-sidebar",
+			"container",
+			"main",
+			"media",
+			"[]",
+			"pages",
+			"= [",
+			"[",
+			"array",
+			"$login",
+			"Login",
+			"login",
+			"uname",
+			"animate-opacity",
+			"overlay",
+			"var",
+			"header",
+			"template",
+			"style",
+			"ccc",
+			"w3-button",
+			"font-family:",
+			"imageAlt",
+			"result",
+			"category",
+			"cate",
+			"result",
+			"checkPageAmount",
+			"6",
+			"header",
+			"6",
+			"articleAmount",
+			"_POST",
+			"4",
+			"6",
+			"postDivTop",
+			"borderTop",
+			"\"\"",
+			"class",
+			"contain",
+			"con",
+			"media",
+			"contai",
+			"conta",
+			"contain",
+			"media",
+			"container",
+			"media",
+			"container",
+			"article",
+			"w3-container",
+			"w3-main",
+			"main",
+			"media",
+			"container",
+			"echo'",
+			"button",
+			"bar-item",
+			"bar-block",
+			"sidebar",
+			"body",
+			"container",
+			"myOverlay",
+			"side"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								936,
+								936
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "fishSem3Mock.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/www/sloa_second/sloa_second.sublime-project"
+			],
+			[
+				"slo",
+				"~/Dropbox/www/sloa_second/sloa_second.sublime-project"
+			],
+			[
+				"star",
+				"~/Dropbox/www/startpage/startpage.sublime-project"
+			],
+			[
+				"we",
+				"~/Dropbox/www/webHelpers/WebHelpers.sublime-project"
+			],
+			[
+				"sloa",
+				"~/Dropbox/www/sloa_second/sloa_second.sublime-project"
+			],
+			[
+				"start",
+				"~/Dropbox/www/startpage/startpage.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
