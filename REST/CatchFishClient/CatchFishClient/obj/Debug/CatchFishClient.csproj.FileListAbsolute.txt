@@ -1,0 +1,7 @@
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\bin\Debug\CatchFishClient.exe.config
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\bin\Debug\CatchFishClient.exe
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\bin\Debug\CatchFishClient.pdb
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\obj\Debug\CatchFishClient.csprojResolveAssemblyReference.cache
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\obj\Debug\CatchFishClient.csproj.CoreCompileInputs.cache
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\obj\Debug\CatchFishClient.exe
+c:\users\this is not my name\source\repos\CatchFishClient\CatchFishClient\obj\Debug\CatchFishClient.pdb
